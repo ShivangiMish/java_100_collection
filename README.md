@@ -28,10 +28,6 @@ We welcome contributions from the community! If you'd like to add new questions 
 3. Make your changes.
 4. Submit a pull request with a description of your changes.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to open an issue or contact me directly at [shivangimishra539@gmail.com].
